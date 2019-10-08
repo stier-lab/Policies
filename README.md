@@ -32,5 +32,3 @@ Members of the community who violate these rules - no matter how much they have 
 
 
 > The material in this code of conduct is derived from Dr. Christie Bahali's lab "[Bahali Lab Policies](https://github.com/BahlaiLab/Policies)" which was inspired by "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)"by Dr. Kirstie Whitaker and the Whitaker Lab team. 
-
-used under CC BY 4.0. Bahlai Lab Code of conduct is licensed under CC BY 4.0 by Dr. Christie Bahlai
