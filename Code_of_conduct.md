@@ -31,5 +31,4 @@ Members of the community who violate these rules - no matter how much they have 
 **To report an issue** please contact [Adrian Stier](https://github.com/adrianstier). All communication will be treated as confidential.
 
 
-> The material in this code of conduct is derived from Dr. Christie Bahali's lab "[Bahali Lab Policies](https://github.com/BahlaiLab/Policies)" which was inspired by "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)"by Dr. Kirstie Whitaker and the Whitaker Lab team. #  <#Title#>
-
+> The material in this code of conduct is derived from Dr. Christie Bahali's lab "[Bahali Lab Policies](https://github.com/BahlaiLab/Policies)" which was inspired by "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)"by Dr. Kirstie Whitaker and the Whitaker Lab team.
