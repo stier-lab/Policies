@@ -1,6 +1,6 @@
 # Policies
 
-This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Bahlai lab. These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things.
+This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Stier lab. These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things.
 
 ## Legal stuff
 
