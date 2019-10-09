@@ -26,7 +26,7 @@ Unacceptable behavior includes offensive verbal comments related to gender, sexu
 
 ***Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Bahlai lab, or how specialised their skill set - will be approached by Adrian Stier. If inappropriate behaviour persists after a discussion with Adrian, the issue will be escalated according to procedures laid out by the relevant entities in UC Santa Barbara's [Division of Diversity, Equity & Inclusion](https://oeosh.ucsb.edu/titleix/discrimination)
+Members of the community who violate these rules - no matter how much they have contributed to the Stier lab, or how specialised their skill set - will be approached by Adrian Stier. If inappropriate behaviour persists after a discussion with Adrian, the issue will be escalated according to procedures laid out by the relevant entities in UC Santa Barbara's [Division of Diversity, Equity & Inclusion](https://oeosh.ucsb.edu/titleix/discrimination)
 
 **To report an issue** please contact [Adrian Stier](https://github.com/adrianstier). All communication will be treated as confidential.
 
